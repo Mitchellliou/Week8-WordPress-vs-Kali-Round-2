@@ -27,7 +27,7 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: Username Enumeration\
+Vulnerability #1: Username Enumeration
 
     ![](ScreenCaptures/GREEN-UserEnumeration.PNG)
     When the user exists, the Log In part is bolded
