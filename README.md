@@ -27,9 +27,10 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: Username Enumeration:                                                 
     ![](ScreenCaptures/GREEN-UserEnumeration.PNG)
-    When the user exists, the Log In part is bolded
+
+When the user exists, the Log In part is bolded
 
 Vulnerability #2: Cross-Site Scripting
     ![](ScreenCaptures/GREEN-XSS.PNG)
@@ -40,11 +41,13 @@ Vulnerability #2: Cross-Site Scripting
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
     ![](ScreenCaptures/RED-IDOR.PNG)
-    By changing the url, it is possible to find Testy Mctesterson who is not supposed to be visible
+    
+By changing the url, it is possible to find Testy Mctesterson who is not supposed to be visible
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
     ![](ScreenCaptures/RED-CSRF.gif)
-    If an admin goes to the link left in the feedback the it will change the user's name
+    
+If an admin goes to the link left in the feedback the it will change the user's name
 
 
 
